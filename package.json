@@ -11,7 +11,7 @@
   "devDependencies": {
     "@types/react-dom": "^19.1.6",
     "typescript": "~5.8.3",
-    "vite": "^6.3.5"
+    "vite": "^8.0.1"
   },
   "dependencies": {
     "@emotion/react": "^11.14.0",
